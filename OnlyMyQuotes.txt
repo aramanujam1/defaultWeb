@@ -9,3 +9,5 @@ Squash Demo #3
 Squash Demo #4
 
 Commit #5 started rebase dev 2 commit 1
+
+Commit #6 started rebase dev 2 commit 2
