@@ -1,1 +1,9 @@
 This will have only MyQuotes
+
+Squash Demo #1
+
+Squash Demo #2
+
+Squash Demo #3
+
+Squash Demo #4
