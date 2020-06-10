@@ -1,3 +1,5 @@
 This will have only MyQuotes
 
 Squash Demo #1
+
+Squash Demo #2
